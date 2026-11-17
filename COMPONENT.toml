@@ -3,7 +3,7 @@ name = "SigmaOS-gpart"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "gpart component"
+description = "SigmaOS SigmaOS-gpart component"
 upstream = []
 
 [contract]
